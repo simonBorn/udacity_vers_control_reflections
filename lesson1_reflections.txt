@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    - I don't have to scroll all through a file.
+	- Typos are found much more easily since I only have to check part of the file
+	- Missing code is easily identified
+	- Not as much code "clutter" around the bug -> easier to find
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    - Faster debugging
+	- Better understanding of how bugs occur and why
+	- Easy to use previous discarded versions of code that turn out to having been better
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    PRO
+	- Not having a huge number of versions saved that don't really have differences and thus are hard to find the point where a certain change was made
+	CON
+	- Forgetting to save timely might take you beyond a smart recovery point and thus forcing you to redo a lot of your work
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    - Because Git is for mulit-file environments
+	- Because Git manages environments with connected files, Google Docs are independet files
+
+How can you use the commands git log and git diff to view the history of files?
+
+    - Didn't use git log and diff... ?
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    - You can always recover old versions
+    - The process to do that is quick
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    - Versioning software / website versions
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	- Reuse old pieces of code, understand development of code
+
+How might using version control make you more confident to make changes that could break something?
+
+   - Fast way to recover and find when changes are made
+   - Don't have to rewrite entire code but can correct pieces -> bigger changes are possible
