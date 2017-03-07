@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  - Working on a repository with more than one person
+  - Working on a repository from more than one location (ie. different work locations or work / home)
+  - Also helps preventing local cpu crashes / data loss
+  
