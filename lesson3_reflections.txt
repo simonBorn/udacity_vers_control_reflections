@@ -8,5 +8,12 @@ Why might you want to always pull changes manually rather than having Git automa
 
   - You only want to post changes publically that passed your own "quality assesment" and that you do want to share with others
 
-  
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+ - Clones are duplications of entire repositories.
+ - When cloning a GitHub repository into another GitHub account, the process is called forking
+ - Forking brings with it some further advantages of reference to the originally forked repository (credits, easy way to suggest changes to original repository)
+ - Branches are feature branches of one repository. They should not be used for entirely new projects but only for features of one project. 
+
+ 
   
