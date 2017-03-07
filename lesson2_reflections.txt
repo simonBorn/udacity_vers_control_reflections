@@ -14,16 +14,25 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 - Determine what changes the staging area contains
+- On bigger changes only add those files to the st.area that make up one logical change, proceed for each other logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-- 
+
+- try new features while the main product is being bug fixed
+- branches would keep a working version while allowing to add and test new features besides
 
 
 How do the diagrams help you visualize the branch structure?
 
+- The diagrams show when the last common commit was made and what status these files have
+
+
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+- it merges the files and commits of two branches using the added and removed data from two branches
+html5 the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+- Git does most of the work for you -> The amount of code needing to be compared can be huge -> automatic comparison a lot faster

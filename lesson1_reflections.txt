@@ -50,3 +50,4 @@ How might using version control make you more confident to make changes that cou
 
    - Fast way to recover and find when changes are made
    - Don't have to rewrite entire code but can correct pieces -> bigger changes are possible
+
